@@ -5,6 +5,10 @@ A card that clones/mirrors cards from other dashboard views. Supports three nest
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/v/release/thecodingdad/mirror-card)](https://github.com/thecodingdad/mirror-card/releases)
 
+## Screenshot
+
+![Mirror Card](screenshots/screenshot.png)
+
 ## Features
 
 - Three mirroring modes:
@@ -18,7 +22,7 @@ A card that clones/mirrors cards from other dashboard views. Supports three nest
 
 ## Prerequisites
 
-- Home Assistant 2024.1.0 or newer
+- Home Assistant 2026.3.0 or newer
 - HACS (recommended for installation)
 
 ## Installation
