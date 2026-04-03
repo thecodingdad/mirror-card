@@ -19,6 +19,7 @@ A card that clones/mirrors cards from other dashboard views. Supports three nest
 - Source resolution by view index or path
 - Dynamic card creation and rendering
 - EN/DE multilanguage support
+- **Note:** Since there is no unique identifier for a card, mirroring is based on section/card indexes. When you move the source card (index changes), the mirror-card will point to another card.
 
 ## Prerequisites
 
